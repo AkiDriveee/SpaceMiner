@@ -103,8 +103,8 @@ function preload() {
   startButton = loadImage("start.png");
   startButtonHover = loadImage("startHover.png");
 
-  howToPlayButton = loadImage("HowToPlay.png");
-  howToPlayButtonHover = loadImage("HowToPlayHover.png");
+  howToPlayButton = loadImage("howToPlay.png");
+  howToPlayButtonHover = loadImage("howToPlayHover.png");
 
   leaderboardButton = loadImage("leaderboard.png");
   leaderboardButtonHover = loadImage("leaderboardHover.png");
