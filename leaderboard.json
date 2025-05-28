@@ -1,0 +1,29 @@
+{
+    "leaderboard": [
+        {
+            "playerName": "MegaGamer",
+            "score": 947392759,
+            "date": "2025-05-16"
+        },
+        {
+            "playerName": "UltraBlast",
+            "score": 894947859,
+            "date": "2025-05-15"
+        },
+        {
+            "playerName": "PixelKing",
+            "score": 777404856,
+            "date": "2025-05-14"
+        },
+        {
+            "playerName": "StarDestroyer",
+            "score": 647493759,
+            "date": "2025-05-13"
+        },
+        {
+            "playerName": "ArcadeAce",
+            "score": 475849275,
+            "date": "2025-05-12"
+        }
+    ]
+}
